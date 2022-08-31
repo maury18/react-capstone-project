@@ -58,10 +58,6 @@ run: npm test
 
 ## 🤝 Contributing
 
-- I wanna thank to Nelson Sakwa for the letting me use his template as reference.
-- You can see the template here: https://www.behance.net/gallery/31579789/Ballhead-App-%28Free-PSDs%29
-Contributions, issues, and feature requests are welcome!
-
 Feel free to check the [issues page](../../issues/).
 
 ## Show your support
@@ -69,10 +65,11 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐ if you like this project!
 
 ## Acknowledgments
+# Inspiration
+- I wanna thank to Nelson Sakwa for the letting me use his template as reference.
+- You can see the template here: https://www.behance.net/gallery/31579789/Ballhead-App-%28Free-PSDs%29
+Contributions, issues, and feature requests are welcome!
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
