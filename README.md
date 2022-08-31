@@ -13,7 +13,7 @@ In this project you can check for some nintendo characters, has a detail page fo
 
 ## Live Demo (if available)
 
-- See live demo [here(https://maury-react-capstone.herokuapp.com/)]
+- See live demo: https://maury-react-capstone.herokuapp.com/
 
 ## Getting Started:
 - Clone the repository in your computer
@@ -59,7 +59,7 @@ run: npm test
 ## 🤝 Contributing
 
 - I wanna thank to Nelson Sakwa for the letting me use his template as reference.
-- You can see the template [here(https://www.behance.net/gallery/31579789/Ballhead-App-%28Free-PSDs%29)]
+- You can see the template here: https://www.behance.net/gallery/31579789/Ballhead-App-%28Free-PSDs%29
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
