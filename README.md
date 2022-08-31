@@ -15,6 +15,10 @@ In this project you can check for some nintendo characters, has a detail page fo
 
 - See live demo: https://maury-react-capstone.herokuapp.com/
 
+## Video Demo (if available)
+
+- see video demo : https://drive.google.com/file/d/1p8SWaEbyr6I0ml9InG1T74KBuS7Z6YDJ/view?usp=sharing
+
 ## Getting Started:
 - Clone the repository in your computer
 - npm install for modules
